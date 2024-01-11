@@ -5,4 +5,4 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,mongodb,bots,photoshop)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,mongodb,react,vue,flutter,cs,cpp,electron,github)](https://skillicons.dev)<br/>
